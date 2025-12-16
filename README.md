@@ -56,10 +56,10 @@ apt install curl -y
 apt install wget -y
 ```
 ```bash
-git clone https://github.com/XPH4N70M/HACK-CAMERA.git
+git clone https://github.com/vision-dev1/camerahack.git
 ```
 ```bash
-cd HACK-CAMERA
+cd camerahack
 ```
 ```bash
 chmod +x hack_camera.sh (optional)
